@@ -14,7 +14,7 @@ This term project is a single-player game where the user controls water flow on 
 	<li>Overhaul fluid dynamics and move away from a hex grid system</li>
 </ul>
 
-# INSTALLATION Directions:
+# Installation Directions:
 <p>
 	-Have Python 3.7.7 or above installed on your computer. <br>
 	-Unzip files in this folder in a directory. <br>
